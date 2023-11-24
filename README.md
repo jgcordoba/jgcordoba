@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jose Cordoba</h1>
 <h3 align="center">A passionate Biomedical Engineer from Colombia</h3>
 
-- 🔭 My last project result in a incredible database [Dataset of electrophysiological signals (EEG, ECG, EMG) during Music therapy with adult burn patients in the Intensive Care Unit.](doi:10.18112/openneuro.ds004840.v1.0.1)
+- 🔭 My last project result in a incredible database Dataset of electrophysiological signals (EEG, ECG, EMG) during Music therapy with adult burn patients in the Intensive Care Unit. **https://openneuro.org/datasets/ds004840/versions/1.0.1**
 
 - 🌱 I’m currently learning and improving my skills in **Deep learnig**
 
