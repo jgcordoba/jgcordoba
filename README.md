@@ -1,6 +1,6 @@
+[![MasterHead](https://naturalsciences.uoregon.edu/sites/naturalsciences1.uoregon.edu/files/styles/custom_xl/public/2023-05/neuroscience-hero-image.jpg?itok=NJnA7AYs)](https://josecordoba.io)
 <h1 align="center">Hi 👋, I'm Jose Cordoba</h1>
 <h3 align="center">A passionate Biomedical Engineer from Colombia</h3>
-
 
 - 🔭 My last project result in a incredible database [Dataset of electrophysiological signals (EEG, ECG, EMG) during Music therapy with adult burn patients in the Intensive Care Unit.](doi:10.18112/openneuro.ds004840.v1.0.1)
 
